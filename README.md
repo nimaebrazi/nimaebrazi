@@ -7,6 +7,8 @@
 ![Spring](https://img.shields.io/badge/Spring-%2300ADD8.svg?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2300ADD8.svg?style=for-the-badge&logo=spring-boot&logoColor=white&color=6DB33F) 
 
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)   
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1) 
@@ -14,6 +16,17 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetees](https://img.shields.io/badge/kubernetees-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5) 
 
+# 🔨 Languages and Tools:
+```
+- JAVA
+- Golang
+- PHP
+- Docker
+- Kubernetes
+- MySQL
+- Redis
+- Git & GitHub
+```
 <!--
 **nimaebrazi/nimaebrazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
